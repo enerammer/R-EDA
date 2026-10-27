@@ -174,7 +174,7 @@ flightdata |>
 ```
 
 ``` warning
-Warning: Removed 57 rows containing missing values or values outside the scale range
+Warning: Removed 58 rows containing missing values or values outside the scale range
 (`geom_point()`).
 ```
 
